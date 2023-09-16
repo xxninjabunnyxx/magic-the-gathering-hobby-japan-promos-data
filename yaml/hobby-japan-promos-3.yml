@@ -1,0 +1,106 @@
+---
+object: card
+id: 7e8cbd3c-e88d-4d08-8553-20dfbad5f833
+oracle_id: 8fa93c01-f9ea-4d48-a040-418d1ca6be19
+multiverse_ids: []
+cardmarket_id: 259532
+name: Krovikan Vampire
+lang: ja
+released_at: '2002-07-01'
+uri: https://api.scryfall.com/cards/7e8cbd3c-e88d-4d08-8553-20dfbad5f833
+scryfall_uri: https://scryfall.com/card/phj/3/ja/krovikan-vampire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.jpg?1555643296
+  normal: https://cards.scryfall.io/normal/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.jpg?1555643296
+  large: https://cards.scryfall.io/large/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.jpg?1555643296
+  png: https://cards.scryfall.io/png/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.png?1555643296
+  art_crop: https://cards.scryfall.io/art_crop/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.jpg?1555643296
+  border_crop: https://cards.scryfall.io/border_crop/front/7/e/7e8cbd3c-e88d-4d08-8553-20dfbad5f833.jpg?1555643296
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Creature — Vampire
+oracle_text: At the beginning of each end step, if a creature dealt damage by Krovikan
+  Vampire this turn died, put that card onto the battlefield under your control. Sacrifice
+  it when you lose control of Krovikan Vampire.
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 05f9add2-710e-4af4-a091-732a73365bfd
+set: phj
+set_name: Hobby Japan Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/05f9add2-710e-4af4-a091-732a73365bfd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphj&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phj?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7e8cbd3c-e88d-4d08-8553-20dfbad5f833/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fa93c01-f9ea-4d48-a040-418d1ca6be19&unique=prints
+collector_number: '3'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Quinton Hoover
+artist_ids:
+- 1a2db619-92a5-431a-822b-101cdcc5bd5d
+illustration_id: f1b7cf7f-9b8e-4ef4-b937-8e1641a9ee00
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 22047
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '44.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Krovikan+Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Krovikan+Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Krovikan+Vampire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Krovikan+Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Krovikan+Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Krovikan+Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
